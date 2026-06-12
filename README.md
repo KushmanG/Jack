@@ -10,10 +10,10 @@ Listens for a wake word, transcribes speech, parses intent, and dispatches to st
 source Jarvis/bin/activate
 
 # 2. Install dependencies
-pip install -r voice_agent/requirements.txt
+pip install -r requirements.txt
 
 # 3. Run the agent
-python voice_agent/main.py
+python3 main.py
 ```
 
 ## Usage
